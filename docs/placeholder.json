@@ -1,0 +1,53 @@
+{
+  "events": [
+    { "name": "Place", "lat": 59.955413, "lng": 30.337844 },
+    { "name": "Place", "lat": 58.955413, "lng": 30.337844 },
+    { "name": "Place", "lat": 57.955413, "lng": 30.337844 },
+    { "name": "Place", "lat": 57.955413, "lng": 31.337844 },
+    { "name": "Place", "lat": 57.955413, "lng": 32.337844 }
+  ],
+  "persons": [
+    {
+      "name": "João M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    },
+    {
+      "name": "João M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    },
+    {
+      "name": "Alfredo M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    },
+    {
+      "name": "Pascoal M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    },
+    {
+      "name": "Edoardo M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    },
+    {
+      "name": "Marco M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    },
+    {
+      "name": "Andrea M. Narciso",
+      "birthday": "1986-09-30",
+      "picture": "default.png",
+      "distance": { "lat": 57.95, "lng": 30.33 }
+    }
+  ]
+}
